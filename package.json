@@ -1,0 +1,20 @@
+{
+  "name": "react-creator-helper",
+  "version": "1.0.0",
+  "description": "Creates a component in a folder with a JSX and SCSS file named as you wish.",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "react-creator-helper": "bin/index.js"
+  },
+  "preferGlobal": true,
+  "keywords": [],
+  "author": "Marcelo L. Filho",
+  "license": "ISC",
+  "dependencies": {
+    "change-case": "^4.1.2",
+    "mkdirp": "^1.0.4"
+  }
+}
