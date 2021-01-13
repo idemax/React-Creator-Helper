@@ -4,7 +4,7 @@ Creates a component in a folder with a JSX and SCSS file named as you wish.
 
 ## NPM install
 
-`npm i -s react-creator-helper`
+`npm i -g react-creator-helper`
 
 ## How to use?
 

@@ -1,6 +1,6 @@
 {
   "name": "@idemax/react-creator-helper",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Creates a component in a folder with a JSX and SCSS file named as you wish.",
   "main": "./lib/index.js",
   "scripts": {
