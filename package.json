@@ -1,5 +1,5 @@
 {
-  "name": "react-creator-helper",
+  "name": "@idemax/react-creator-helper",
   "version": "1.0.0",
   "description": "Creates a component in a folder with a JSX and SCSS file named as you wish.",
   "main": "./lib/index.js",
@@ -16,5 +16,14 @@
   "dependencies": {
     "change-case": "^4.1.2",
     "mkdirp": "^1.0.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idemax/React-Creator-Helper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/idemax/React-Creator-Helper/issues"
+  },
+  "homepage": "https://github.com/idemax/React-Creator-Helper#readme"
 }

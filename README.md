@@ -12,7 +12,7 @@ Creates a component in a folder with a JSX and SCSS file named as you wish.
 
 Example:
 
-`react-creator-helper my-button ../../my-app/src//components/`
+`react-creator-helper my-button ../../my-app/src/components/`
 
 ## Created files examples
 
